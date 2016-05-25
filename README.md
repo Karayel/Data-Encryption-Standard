@@ -410,4 +410,5 @@ DES Modes of Operation
 The DES algorithm turns a 64-bit message block M into a 64-bit cipher block C. If each 64-bit block is encrypted individually, then the mode of encryption is called Electronic Code Book (ECB) mode. There are two other modes of DES encryption, namely Chain Block Coding (CBC) and Cipher Feedback (CFB), which make each cipher block dependent on all the previous messages blocks through an initial XOR operation.
 
 See below link for more information and links 
+
 http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
